@@ -28,6 +28,7 @@
  *     will be required for:
  *      a. fib(10)
  *      b. factorial(10)
+ * 
  */
 int fib(int n, int a = 0, int b = 1){
     if (n == 0)
@@ -40,5 +41,5 @@ int fib(int n, int a = 0, int b = 1){
 int factorial(int n){
     if(n < 2)
         return 1;
-    return n * factorial(n);
+    return n * factorial(n-1);
 }

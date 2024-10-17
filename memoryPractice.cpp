@@ -6,6 +6,7 @@ using namespace std;
 
 //Where is each variable (m, j, k, x, y, z, v) located in memory? (Stack vs Heap vs Static)
 //When does each variable get destroyed? What is the scope of each variable?
+
 int m = 1;
 
 void bar(int j){

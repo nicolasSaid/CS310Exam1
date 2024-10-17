@@ -33,7 +33,6 @@ int main(){
     //What will this output? Will it cause an error?
     cout<<*(x.name)<<" | "<<*(y.name)<<endl;
 
-
     //What error, if any, will there be in main because of the copy constructor?
     //Can you change the copy constructor to not cause an error?
 }

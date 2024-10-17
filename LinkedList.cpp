@@ -26,6 +26,7 @@ class LinkedList{
         }
 
         //What is the time complexity of print in big O notation? What would it be in an array representation?
+        
         void print(){
             Node* temp = /* what should we set the temp variable to so that we can iterate through the list? */
             while(/* what condition can we write to make the while loop go through the list without going out of bounds? */){

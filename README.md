@@ -3,6 +3,7 @@
 <h3>CS310 EXAM PRACTICE!</h3>
 
 <h5>we will be working on the files in the following order:</h5>
+
 <ol>
   <li>memoryPractice.cpp</li>
   <li>deepCopyPractice.cpp</li>
