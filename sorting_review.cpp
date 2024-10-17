@@ -6,7 +6,6 @@
  *      b. Selection Sort
  *      c. Quick Sort
  *      d. Insertion Sort
- *      e. BST Sort
  */
 
 /**
@@ -17,7 +16,6 @@
  *      b. Selection Sort
  *      c. Quick Sort
  *      d. Insertion Sort
- *      e. BST Sort
  * 
  * 3. Would it be accurate to describe
  *    Merge Sort as "O(n^2)"?
